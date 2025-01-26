@@ -29,7 +29,7 @@
 
 # Об авторе
 
-![[Pasted image 20250125163450.png]]
+![Pasted image 20250125163450.png](<https://github.com/abadd00d/web-for-juniors/blob/main/img/Pasted image 20250125163450.png>)
 
 Владимир Зайцев, заместитель технического директора компании NGENIX.
 
